@@ -32,7 +32,6 @@ The following experiments where conducted:
 
 ###### NLP-based branch-and-bound:
 * SCIP w/o conflict analysis at all vs. enabled conflict graph analysis due to propagation vs. enabled NLP-based dual proof analysis (`nlp-based/MINLP_discrete_local_dual_proofs_all.csv`)
-* Same as above but w/ and w/o adding solutions and analyzing infeasibility during coefficient diving and conflict diving, respectively (`conflictdiving/MMMc_default_coef_conf__noconfs_nosols_clean.csv`)
 
 #### CSV data details
 
