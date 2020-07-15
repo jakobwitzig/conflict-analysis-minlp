@@ -35,7 +35,7 @@ The following experiments where conducted:
 
 #### CSV data details
 
-All instance features, e.g., solving time or explored tree nodes, are always given with respect to a setting.
+All instance features, e.g., solving time or explored tree nodes, are always given with respect to a setting `s`:
 
 ###### LP-based branch-and-bound
 
