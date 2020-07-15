@@ -70,6 +70,7 @@ All instance features, e.g., solving time or explored tree nodes, are always giv
   address     = {Takustr.~7, 14195 Berlin},
   number      = {20-20},
   language    = {eng},
+  urn         = {urn:nbn:de:0297-zib-78964},
   year        = {2020}
 }
 ```
